@@ -1,0 +1,5 @@
+:loopstart
+
+start
+
+goto loopstart
